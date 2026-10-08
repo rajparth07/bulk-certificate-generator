@@ -1,0 +1,18 @@
+{
+  "title": "Certificate of Completion",
+  "event_name": "Backend Engineering Workshop",
+  "issuer": "Aereo Academy",
+  "issued_on": "2026-10-08",
+  "recipients": [
+    {
+      "name": "Ada Lovelace",
+      "email": "ada@example.com",
+      "detail": "Track: API design"
+    },
+    {
+      "name": "Grace Hopper",
+      "email": "grace@example.com",
+      "detail": "Track: Systems"
+    }
+  ]
+}
